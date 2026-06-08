@@ -1,0 +1,34 @@
+Order ID,Order Date,Month,Quarter,CustomerName,Category,Sub-Category,Quantity,Amount,Profit,PaymentMode,State
+ORD-10001,2024-01-05,January,Q1,Vrinda,Electronics,Printers,2,18000,4200,Online,Maharashtra
+ORD-10002,2024-01-12,January,Q1,Yogesh,Furniture,Bookcases,1,12500,3100,Credit Card,Delhi
+ORD-10003,2024-01-20,January,Q1,Yohann,Clothing,Saree,3,9000,2800,UPI,Gujarat
+ORD-10004,2024-02-03,February,Q1,Yash,Electronics,Accessories,5,7500,1900,Debit Card,Karnataka
+ORD-10005,2024-02-14,February,Q1,Yaanvi,Furniture,Tables,1,11000,2700,EMI,Tamil Nadu
+ORD-10006,2024-02-22,February,Q1,Wale,Clothing,Trousers,4,8000,2100,Cash on Delivery,Rajasthan
+ORD-10007,2024-03-01,March,Q1,Vrinda,Electronics,Printers,1,9500,2200,Online,Maharashtra
+ORD-10008,2024-03-15,March,Q1,Yogesh,Furniture,Bookcases,2,24000,5800,UPI,Delhi
+ORD-10009,2024-03-28,March,Q1,Yohann,Clothing,Saree,6,13500,4100,Credit Card,Gujarat
+ORD-10010,2024-04-05,April,Q2,Yash,Electronics,Accessories,3,4500,900,Online,Karnataka
+ORD-10011,2024-04-18,April,Q2,Yaanvi,Electronics,Printers,2,19000,4800,EMI,Tamil Nadu
+ORD-10012,2024-04-25,April,Q2,Wale,Furniture,Tables,1,10500,2400,Debit Card,Rajasthan
+ORD-10013,2024-05-07,May,Q2,Vrinda,Clothing,Trousers,5,10000,2900,UPI,Maharashtra
+ORD-10014,2024-05-16,May,Q2,Yogesh,Furniture,Bookcases,1,13000,3400,Cash on Delivery,Delhi
+ORD-10015,2024-05-29,May,Q2,Yohann,Electronics,Accessories,4,6000,1400,Online,Gujarat
+ORD-10016,2024-06-10,June,Q2,Yash,Electronics,Printers,1,8500,1800,Credit Card,Karnataka
+ORD-10017,2024-06-22,June,Q2,Yaanvi,Clothing,Saree,2,6000,1700,UPI,Tamil Nadu
+ORD-10018,2024-07-04,July,Q3,Wale,Furniture,Tables,2,21000,4900,EMI,Rajasthan
+ORD-10019,2024-07-19,July,Q3,Vrinda,Electronics,Printers,3,27000,6300,Online,Maharashtra
+ORD-10020,2024-07-30,July,Q3,Yogesh,Clothing,Trousers,7,14000,3800,Debit Card,Delhi
+ORD-10021,2024-08-09,August,Q3,Yohann,Furniture,Bookcases,1,12000,2900,Credit Card,Gujarat
+ORD-10022,2024-08-21,August,Q3,Yash,Clothing,Saree,4,12000,3600,UPI,Karnataka
+ORD-10023,2024-09-03,September,Q3,Yaanvi,Electronics,Accessories,6,9000,1200,Online,Tamil Nadu
+ORD-10024,2024-09-17,September,Q3,Wale,Electronics,Printers,1,9000,1900,Cash on Delivery,Rajasthan
+ORD-10025,2024-09-28,September,Q3,Vrinda,Furniture,Tables,1,10000,2100,EMI,Maharashtra
+ORD-10026,2024-10-06,October,Q4,Yogesh,Clothing,Trousers,3,6000,1500,Debit Card,Delhi
+ORD-10027,2024-10-15,October,Q4,Yohann,Electronics,Printers,4,36000,8800,UPI,Gujarat
+ORD-10028,2024-10-27,October,Q4,Yash,Furniture,Bookcases,2,25000,6100,Credit Card,Karnataka
+ORD-10029,2024-11-08,November,Q4,Yaanvi,Clothing,Saree,5,15000,4500,Online,Tamil Nadu
+ORD-10030,2024-11-19,November,Q4,Wale,Electronics,Accessories,8,12000,2800,EMI,Rajasthan
+ORD-10031,2024-12-02,December,Q4,Vrinda,Electronics,Printers,2,18000,-1800,Online,Maharashtra
+ORD-10032,2024-12-14,December,Q4,Yogesh,Furniture,Tables,3,31500,7400,UPI,Delhi
+ORD-10033,2024-12-26,December,Q4,Yohann,Clothing,Trousers,6,12000,-2400,Cash on Delivery,Gujarat
