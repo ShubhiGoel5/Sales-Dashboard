@@ -2,7 +2,7 @@
 
 A comprehensive **Sales Analytics Dashboard** built with Microsoft Power BI, designed for advanced **KPI Analysis**, data-driven decision-making, and real-time business insights.
 
-![Sales Dashboard Preview](screenshots/dashboard_preview.png)
+![Sales Dashboard Preview]("C:\Users\hp\Desktop\Dahboard.png")
 
 ---
 
@@ -148,8 +148,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@ShubhiGoel5](https://github.com/ShubhiGoel5)
+- LinkedIn: [Shubhi Goel](https://www.linkedin.com/in/shubhi-goel-8aaa5a28a/)
 
 ---
 
