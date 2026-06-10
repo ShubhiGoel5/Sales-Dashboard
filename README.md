@@ -2,7 +2,8 @@
 
 A comprehensive **Sales Analytics Dashboard** built with Microsoft Power BI, designed for advanced **KPI Analysis**, data-driven decision-making, and real-time business insights.
 
-![Sales Dashboard Preview]("C:\Users\hp\Desktop\Dahboard.png")
+<img width="607" height="341" alt="Dahboard" src="https://github.com/user-attachments/assets/14bbddc1-212a-4746-b26c-47ce5edc6d0e" />
+
 
 ---
 
