@@ -1,4 +1,4 @@
-# Sales Dashboard — Power BI: KPI Analysis & Business Intelligence
+# Sales Dashboard - Power BI: KPI Analysis & Business Intelligence
 
 A comprehensive **Sales Analytics Dashboard** built with Microsoft Power BI, designed for advanced **KPI Analysis**, data-driven decision-making, and real-time business insights.
 
@@ -23,12 +23,12 @@ This dashboard empowers sales teams and management to monitor **Key Performance 
 ## Dashboard Features & Visualizations
 
 ### Advanced Visual Analytics
-- **KPI Cards** — Instant visibility into Total Quantity, Profit, and Revenue.
-- **Quarterly Trend Filters** — Dynamic toggles to analyze performance across Q1, Q2, Q3, and Q4.
-- **Sub-Category Performance (Bar Charts)** — Profitability ranking of top sub-categories.
-- **Payment & Category Insights (Donut Charts)** — Breakdown of payment modes and category-wise sales distribution.
-- **Customer Revenue Tracking (Column Chart)** — Identifies top-performing customers and key accounts.
-- **Monthly Profitability (Line Chart)** — Month-over-month trend analysis to spot seasonal patterns.
+- **KPI Cards** - Instant visibility into Total Quantity, Profit, and Revenue.
+- **Quarterly Trend Filters** - Dynamic toggles to analyze performance across Q1, Q2, Q3, and Q4.
+- **Sub-Category Performance (Bar Charts)** - Profitability ranking of top sub-categories.
+- **Payment & Category Insights (Donut Charts)** - Breakdown of payment modes and category-wise sales distribution.
+- **Customer Revenue Tracking (Column Chart)** - Identifies top-performing customers and key accounts.
+- **Monthly Profitability (Line Chart)** - Month-over-month trend analysis to spot seasonal patterns.
 
 ### Tracked Dimensions
 - **Sub-Categories:** Printers, Bookcases, Saree, Accessories, Tables, Trousers
@@ -100,7 +100,7 @@ sales-dashboard-repo/
 | `PaymentMode` | Text | Transaction method used |
 | `Order Date` / `Month` / `Quarter`| Date/Text | Temporal dimensions for time-series analysis |
 
-*For a complete schema, refer to [`data/data_dictionary.md`](data/data_dictionary.md).*
+*For a complete schema, refer to [`data_dictionary.md`](data_dictionary.md).*
 
 ---
 
@@ -126,7 +126,7 @@ Sum of Quantity = SUM(Sales[Quantity])
 
 Profit Margin % = DIVIDE([Sum of Profit], [Sum of Amount], 0)
 ```
-*Explore all measures in [`docs/dax_measures.md`](docs/dax_measures.md).*
+*Explore all measures in [`dax_measures.md`](dax_measures.md).*
 
 ---
 
